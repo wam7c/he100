@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <path>interior.ac</path>
+    <offsets>
+      <x-m> -0.05 </x-m>
+      <y-m> 0 </y-m>
+      <z-m>  0 </z-m>
+    </offsets>
+
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/panel.xml</path>
+    <offsets>
+      <x-m> -0.225 </x-m>
+      <y-m> 0 </y-m>
+      <z-m> 0.0 </z-m>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/He-100/Models/Interior/tailwheel.xml</path>
+    <offsets>
+      <x-m> -0.0 </x-m>
+      <y-m> 0 </y-m>
+      <z-m> -0.0 </z-m>
+    </offsets>
+  </model>
+
+</PropertyList>

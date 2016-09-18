@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <path>panel.ac</path>
+    <offsets>
+      <x-m>  0.25 </x-m>
+      <y-m>  0 </y-m>
+      <z-m>  0 </z-m>
+    </offsets>
+
+
+  <!-- REVI 
+  <model>
+    <path>Aircraft/La-5/Models/Interior/Panel/Instruments/N-9_Gunsight/N-9_Gunsight.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m>  -0.05 </y-m>
+      <z-m>  2.370 </z-m>
+    </offsets>
+  </model>
+-->
+
+  <!--  row 1 ASI -->
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/asi/asi.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m> -0.065</y-m>
+      <z-m>  2.327</z-m>
+    </offsets>
+  </model>
+
+  
+  <!-- MANIFOLD -->
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/man/man.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m>  0.01 </y-m>
+      <z-m>  2.337 </z-m>
+    </offsets>
+  </model>
+
+
+  <!-- RPM -->
+
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/tach35-ger/tach35-ger.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m>  0.135 </y-m>
+      <z-m>  2.317 </z-m>
+    </offsets>
+  </model>
+
+
+    <!-- row 2 ALT -->
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/alt/alt.xml</path>
+    <offsets>
+      <x-m>  -0.311 </x-m>
+      <y-m>  -0.11</y-m>
+      <z-m>  2.280 </z-m>
+    </offsets>
+  </model>
+
+
+   <!-- resized 50% he-111 ATT -->
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/oldatt-ger/oldatt-ger.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m>  -0.05 </y-m>
+      <z-m>  2.255 </z-m>
+    </offsets>
+  </model>
+
+
+  
+  <!-- MAGNETIC COMPASS -->
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/MagneticCompass/compas.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m>  0.135</y-m>
+      <z-m>  2.255 </z-m>
+    </offsets>
+  </model>
+
+  
+  <!-- row 3 PSI -->
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/psi/psi.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m>  -0.085 </y-m>
+      <z-m>  2.17 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- VSI -->
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m>  0.008 </y-m>
+      <z-m>  2.280 </z-m>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/clock/clock.xml</path>
+    <offsets>
+      <x-m> -0.311</x-m>
+      <y-m> 0.0081 </y-m>
+      <z-m>  2.22 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- TEMP -->
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/temp/temp.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m> 0.135 </y-m>
+      <z-m> 2.195 </z-m>
+    </offsets>
+  </model>
+
+
+
+<!-- panel lamps -->
+
+  
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/Lights/gearup-lamp.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m> -0.04 </y-m>
+      <z-m> 2.205 </z-m>
+    </offsets>
+  </model>
+  
+
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/Lights/gear-lamp.xml</path>
+    <offsets>
+      <x-m> -0.311</x-m>
+      <y-m> -0.06 </y-m>
+      <z-m> 2.205 </z-m>
+    </offsets>
+  </model>
+  
+
+<!-- panel switches -->
+ 
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/switches/switch.xml</path>
+    <offsets>
+      <x-m> -0.311</x-m>
+      <y-m>  0.20 </y-m>
+      <z-m> 2.09 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/switches/landing-lights.xml</path>
+    <offsets>
+      <x-m> -0.311</x-m>
+      <y-m>  0.14 </y-m>
+      <z-m> 2.09 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/switches/switch.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m>  0.16</y-m>
+      <z-m> 2.09 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/switches/switch.xml</path>
+    <offsets>
+      <x-m> -0.311</x-m>
+      <y-m>  0.18</y-m>
+      <z-m> 2.09</z-m>
+    </offsets>
+  </model>
+  
+<!-- left panel -->
+
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/fuel/fuel.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m> -0.155 </y-m>
+      <z-m>  2.185</z-m>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/switches/magnetos.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m>  -0.2 </y-m>
+      <z-m>  2.13 </z-m>
+    </offsets>
+  </model>
+
+<!-- switches right side -->
+
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/switches/instruments.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m>  0.20 </y-m>
+      <z-m> 2.125 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/switches/switch.xml</path>
+    <offsets>
+      <x-m> -0.311</x-m>
+      <y-m>  0.14</y-m>
+      <z-m> 2.125</z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/switches/nav-lights.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m>  0.16</y-m>
+      <z-m> 2.125</z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/He-100/Models/Interior/Panel/Instruments/switches/switch.xml</path>
+    <offsets>
+      <x-m> -0.311 </x-m>
+      <y-m>  0.18</y-m>
+      <z-m> 2.125 </z-m>
+    </offsets>
+  </model>
+
+</PropertyList>
